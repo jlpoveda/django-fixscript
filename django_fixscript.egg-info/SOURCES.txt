@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.py
+tox.ini
+django_fixscript.egg-info/PKG-INFO
+django_fixscript.egg-info/SOURCES.txt
+django_fixscript.egg-info/dependency_links.txt
+django_fixscript.egg-info/requires.txt
+django_fixscript.egg-info/top_level.txt
+fixscript/__init__.py
+fixscript/admin.py
+fixscript/apps.py
+fixscript/models.py
+fixscript/test_settings.py
+fixscript/tests.py
+fixscript/views.py

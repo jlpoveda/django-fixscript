@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: django-fixscript
+Version: 0.1
+Summary: A library to run scripts on deploy process
+Home-page: https://github.com/jlpoveda/django-fixscript/
+Author: Jose Luis Poveda
+Author-email: jlpoveda@gmail.com
+License: MIT
+Description: django-fixscript
+        ===
+        
+        Is a library to run scripts on deploy process and fix some
+        issues.
+        
+        
+Platform: UNKNOWN
